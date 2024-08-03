@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    padding-top: 56px;
+}
+                                    
+.carousel-item img {
+    height: 400px;
+    width: 100px;
+    object-fit: contain;
+    padding-top: 100px;
+}
+ 
+.navbar {
+    background-color: darkred;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: yellow;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-item .nav-link:hover {
+    color: lightgray;
+}
+
+.aboutus {
+    font-size: x-large;
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+#about{
+    color: aliceblue;
+}
+
